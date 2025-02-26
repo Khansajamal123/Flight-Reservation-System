@@ -1,0 +1,10 @@
+Ticket Details
+Name: khansa
+CNIC: 123456789
+Flight Number: int1
+Departure: pakistan
+Arrival: London
+Departure Time: 08:00 AM
+Arrival Time: 08:00 PM
+Seat Type: Business Class
+Price: $1000
